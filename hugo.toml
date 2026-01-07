@@ -4,9 +4,10 @@
 # hugo server --printPathWarnings --disableFastRender --cleanDestinationDir=true --logLevel=debug \
 # --gc -M -s exampleSite --themesDir ../.. -b http://127.0.0.1/
 
-baseURL = 'https://selindevin.github.io/selinsstuff/'
-# title = 'Selin's Website'
-theme = 'hugo-book'
+baseURL = "https://selindevin.github.io/selinsstuff/"
+languageCode = "en-us"
+title = "Selin"
+theme = "hugo-book"
 
 copyright = '[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)'
 

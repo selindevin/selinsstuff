@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:60154/selinsstuff/docs/about/</loc>
+    <loc>http://localhost:1313/selinsstuff/docs/about/</loc>
     <lastmod>2026-01-07T21:01:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:60154/selinsstuff/docs/writing/</loc>
+    <loc>http://localhost:1313/selinsstuff/docs/writing/</loc>
     <lastmod>2026-01-07T21:01:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:60154/selinsstuff/</loc>
-    <lastmod>2026-01-07T21:01:35+01:00</lastmod>
+    <loc>http://localhost:1313/selinsstuff/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:60154/selinsstuff/zh/"
+                href="http://localhost:1313/selinsstuff/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:60154/selinsstuff/he/"
+                href="http://localhost:1313/selinsstuff/he/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:60154/selinsstuff/"
+                href="http://localhost:1313/selinsstuff/categories/"
                 />
   </url><url>
-    <loc>http://localhost:60154/selinsstuff/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:60154/selinsstuff/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://localhost:60154/selinsstuff/he/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:60154/selinsstuff/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:60154/selinsstuff/docs/</loc>
+    <loc>http://localhost:1313/selinsstuff/docs/</loc>
     <lastmod>2026-01-07T17:36:11+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:60154/selinsstuff/tags/</loc>
+    <loc>http://localhost:1313/selinsstuff/</loc>
+    <lastmod>2026-01-07T21:01:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:60154/selinsstuff/zh/tags/"
+                href="http://localhost:1313/selinsstuff/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:60154/selinsstuff/he/tags/"
+                href="http://localhost:1313/selinsstuff/he/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:60154/selinsstuff/tags/"
+                href="http://localhost:1313/selinsstuff/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/selinsstuff/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/selinsstuff/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="http://localhost:1313/selinsstuff/he/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/selinsstuff/tags/"
                 />
   </url>
 </urlset>
