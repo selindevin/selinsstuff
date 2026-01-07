@@ -2,19 +2,19 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/selin/en/sitemap.xml</loc>
+    <loc>http://localhost:60154/selinsstuff/en/sitemap.xml</loc>
     
-      <lastmod>2026-01-07T20:24:15+01:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/selin/zh/sitemap.xml</loc>
+      <lastmod>2026-01-07T21:01:35+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/selin/he/sitemap.xml</loc>
+    <loc>http://localhost:60154/selinsstuff/zh/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:60154/selinsstuff/he/sitemap.xml</loc>
     
   </sitemap>
   

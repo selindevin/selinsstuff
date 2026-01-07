@@ -1,14 +1,14 @@
 {
   "name": "",
   "short_name": "",
-  "start_url": "/selin/",
-  "scope": "/selin/",
+  "start_url": "/selinsstuff/",
+  "scope": "/selinsstuff/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/selin/favicon.svg",
+      "src": "/selinsstuff/favicon.svg",
       "sizes": "512x512"
     }
   ]

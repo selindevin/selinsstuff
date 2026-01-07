@@ -1,21 +1,21 @@
 const cacheName = self.location.pathname
 const pages = [
 
-  "/selin/docs/about/",
-  "/selin/docs/writing/",
-  "/selin/",
-  "/selin/zh/",
-  "/selin/he/",
-  "/selin/categories/",
-  "/selin/zh/categories/",
-  "/selin/he/categories/",
-  "/selin/docs/",
-  "/selin/tags/",
-  "/selin/zh/tags/",
-  "/selin/he/tags/",
-  "/selin/book.min.cc2c524ed250aac81b23d1f4af87344917b325208841feca0968fe450f570575.css",
-  "/selin/en.search-data.min.58ba338dc1af5c29a15b97082775494763f6822460755490211876e7fbe68270.json",
-  "/selin/en.search.min.6c2704c813dbdd0a478b4a497404a7daeece466439c290e2d9208e4d64054dc3.js",
+  "/selinsstuff/docs/about/",
+  "/selinsstuff/docs/writing/",
+  "/selinsstuff/",
+  "/selinsstuff/zh/",
+  "/selinsstuff/he/",
+  "/selinsstuff/categories/",
+  "/selinsstuff/zh/categories/",
+  "/selinsstuff/he/categories/",
+  "/selinsstuff/docs/",
+  "/selinsstuff/tags/",
+  "/selinsstuff/zh/tags/",
+  "/selinsstuff/he/tags/",
+  "/selinsstuff/book.min.cc2c524ed250aac81b23d1f4af87344917b325208841feca0968fe450f570575.css",
+  "/selinsstuff/en.search-data.min.686cb7747ca7262b8df114ec3233b70eac08280c53cc5ce44cbaec06dd42bf63.json",
+  "/selinsstuff/en.search.min.e85ec103a0d96716b346c9990c75396fba31e1076cc94f7abebd2ca80298c036.js",
   
 ];
 
