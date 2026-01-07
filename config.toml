@@ -1,3 +1,11 @@
+baseURL = "http://1313/selinyagci/"
+languageCode = "en-us"
+title = "Selin's Website"
+theme = "hugo-book"
+author = "Selin"
+defaultContentLanguage = "en"
+disableLanguages = true
+
 [[menu.main]]
 name = "About Me"
 url = "/about/"

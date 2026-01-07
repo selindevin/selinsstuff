@@ -2,93 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-book/docs/about/</loc>
+    <loc>http://localhost:1313/selin/docs/about/</loc>
+    <lastmod>2026-01-07T17:36:11+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/</loc>
+    <loc>http://localhost:1313/selin/docs/writing/</loc>
+    <lastmod>2026-01-07T20:24:15+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/buttons/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/columns/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/details/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/experimental/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/experimental/asciinema/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/experimental/badges/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/experimental/cards/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/experimental/images/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/hints/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/mermaid/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/section/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/section/first-page/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/section/second-page/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/steps/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/tabs/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/categories/</loc>
+    <loc>http://localhost:1313/selin/</loc>
+    <lastmod>2026-01-07T20:24:15+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/hugo-book/zh/categories/"
+                href="http://localhost:1313/selin/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/hugo-book/he/categories/"
+                href="http://localhost:1313/selin/he/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-book/categories/"
+                href="http://localhost:1313/selin/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/docs/shortcodes/katex/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugo-book/</loc>
+    <loc>http://localhost:1313/selin/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/hugo-book/zh/"
+                href="http://localhost:1313/selin/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/hugo-book/he/"
+                href="http://localhost:1313/selin/he/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-book/"
+                href="http://localhost:1313/selin/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-book/tags/</loc>
+    <loc>http://localhost:1313/selin/docs/</loc>
+    <lastmod>2026-01-07T17:36:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/selin/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/hugo-book/zh/tags/"
+                href="http://localhost:1313/selin/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/hugo-book/he/tags/"
+                href="http://localhost:1313/selin/he/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-book/tags/"
+                href="http://localhost:1313/selin/tags/"
                 />
   </url>
 </urlset>

@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-book/zh/categories/</loc>
+    <loc>http://localhost:1313/selin/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-book/categories/"
+                href="http://localhost:1313/selin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/hugo-book/he/categories/"
+                href="http://localhost:1313/selin/he/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/hugo-book/zh/categories/"
+                href="http://localhost:1313/selin/zh/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-book/zh/</loc>
+    <loc>http://localhost:1313/selin/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-book/"
+                href="http://localhost:1313/selin/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/hugo-book/he/"
+                href="http://localhost:1313/selin/he/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/hugo-book/zh/"
+                href="http://localhost:1313/selin/zh/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-book/zh/tags/</loc>
+    <loc>http://localhost:1313/selin/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-book/tags/"
+                href="http://localhost:1313/selin/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/hugo-book/he/tags/"
+                href="http://localhost:1313/selin/he/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/hugo-book/zh/tags/"
+                href="http://localhost:1313/selin/zh/tags/"
                 />
   </url>
 </urlset>

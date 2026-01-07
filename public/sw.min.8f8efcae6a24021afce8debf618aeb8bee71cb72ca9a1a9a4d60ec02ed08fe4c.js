@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/selin/sw.js",{scope:"/selin/"})
