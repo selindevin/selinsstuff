@@ -1,0 +1,4 @@
+[[menu.main]]
+name = "About Me"
+url = "/about/"
+weight = 2
