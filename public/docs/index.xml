@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on Selin</title>
-    <link>http://localhost:1313/selinsstuff/docs/</link>
+    <link>https://selindevin.github.io/selinsstuff/docs/</link>
     <description>Recent content in Documentation on Selin</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</copyright>
-    <atom:link href="http://localhost:1313/selinsstuff/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://selindevin.github.io/selinsstuff/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ABOUT</title>
-      <link>http://localhost:1313/selinsstuff/docs/about/</link>
+      <link>https://selindevin.github.io/selinsstuff/docs/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/selinsstuff/docs/about/</guid>
+      <guid>https://selindevin.github.io/selinsstuff/docs/about/</guid>
       <description>&lt;p&gt;Selin is an interdisciplinary independent researcher, translator, and a guide.&lt;/p&gt;&#xA;&lt;p&gt;She received her B.A. in Economics from Middle East Technical University, her M.A. in Cinema and TV from Kadir Has University, and her doctorate from Universitat Oberta de Catalunya. Her doctoral research explores remembering the 2000s and the punk scenes of Ankara and Madrid, with a focus on place, space, and sociability.&lt;/p&gt;&#xA;&lt;p&gt;Apart from sociology and experimenting with ethnographic fieldwork, she’s interested in cinema, film-watching experiences today, and the philosophy/ontology of cinema. She  wrote a master’s thesis on the ghostly nature of cinema and ghost films.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WRITING</title>
-      <link>http://localhost:1313/selinsstuff/docs/writing/</link>
+      <link>https://selindevin.github.io/selinsstuff/docs/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/selinsstuff/docs/writing/</guid>
+      <guid>https://selindevin.github.io/selinsstuff/docs/writing/</guid>
       <description>&lt;h2 id=&#34;remembering-the-punk-scenes-of-ankara-and-madrid-in-the-2000s&#34;&gt;REMEMBERING THE PUNK SCENES OF ANKARA AND MADRID IN THE 2000s&lt;a class=&#34;anchor&#34; href=&#34;#remembering-the-punk-scenes-of-ankara-and-madrid-in-the-2000s&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This thesis explores the punk scenes in Ankara and Madrid, by tracing how personal memories intersect with urban transformation and socio-cultural dynamics. It examines the experiences of participants who lived through these scenes, focusing on how their recollections of changing cityscapes relate to practices of sociability and the use of public space. It aims to recover the vanishing memory of the places and spaces that once were part of the scene, through personal stories. These narratives offer insights into shared histories and collective memory, linking the past and present in ways that continue to resonate with many who experienced them.&lt;/p&gt;</description>
     </item>
   </channel>

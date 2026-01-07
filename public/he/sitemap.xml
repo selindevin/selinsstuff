@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/selinsstuff/he/categories/</loc>
+    <loc>https://selindevin.github.io/selinsstuff/he/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/selinsstuff/categories/"
+                href="https://selindevin.github.io/selinsstuff/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/selinsstuff/zh/categories/"
+                href="https://selindevin.github.io/selinsstuff/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/selinsstuff/he/categories/"
+                href="https://selindevin.github.io/selinsstuff/he/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/selinsstuff/he/</loc>
+    <loc>https://selindevin.github.io/selinsstuff/he/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/selinsstuff/"
+                href="https://selindevin.github.io/selinsstuff/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/selinsstuff/zh/"
+                href="https://selindevin.github.io/selinsstuff/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/selinsstuff/he/"
+                href="https://selindevin.github.io/selinsstuff/he/"
                 />
   </url><url>
-    <loc>http://localhost:1313/selinsstuff/he/tags/</loc>
+    <loc>https://selindevin.github.io/selinsstuff/he/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/selinsstuff/tags/"
+                href="https://selindevin.github.io/selinsstuff/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/selinsstuff/zh/tags/"
+                href="https://selindevin.github.io/selinsstuff/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/selinsstuff/he/tags/"
+                href="https://selindevin.github.io/selinsstuff/he/tags/"
                 />
   </url>
 </urlset>
